@@ -1,3 +1,16 @@
+
+The program uses plotply and choropleth for map generating. It generates a globe which includes human population in 2013.
+
+How to run..
+
+Run this file in jupyter notebook:
+Python_Choropleth_Complete(Final).ipynb
+
+For web interface with more listings of human population 
+> Run the restget.py in CLI from pyfront-master
+
+
+
 World Population API
 http://api.population.io/#!/countries/listCountries
 
